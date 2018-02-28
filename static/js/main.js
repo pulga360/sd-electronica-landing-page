@@ -1,6 +1,6 @@
 window.onload = function() {
     $.ajax({
-        url: 'https://raw.githubusercontent.com/pulga360/sd-electronica-landing-page/master/assets/prices.json',
+        url: '/assets/prices.json',
         type: 'get',
         dataType: 'json',
         async: false,
