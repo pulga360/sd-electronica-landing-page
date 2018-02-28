@@ -4,7 +4,7 @@
 
 .price {
     font-size: large;
-    color: black !important;
+    color: black;
     font-weight: bold;
     font-family: Arial;
 }
